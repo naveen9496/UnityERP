@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
 	<version>1.0.0.5</version>
-	<url>https://drive.google.com/open?id=1toi0etKMpXdJbfQ41obF6qHenH8H0zH5</url>
+	<url>http://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
     <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
     <mandatory mode="2">true</mandatory>
 </item>
