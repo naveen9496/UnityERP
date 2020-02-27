@@ -3,5 +3,5 @@
 	<version>1.0.0.5</version>
 	<url>http://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
     <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
-    <mandatory>true</mandatory>
+    <mandatory mode="2">true</mandatory>
 </item>
