@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-	<version>1.0.0.9</version>
-	<url>https://srv-file5.gofile.io/download/73ofyO/UnityERP.zip</url>
+	<version>1.0.1.0</version>
+	<url>https://raw.githubusercontent.com/naveen9496/UnityERP/master/Release.zip</url>
     <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
     <mandatory mode="2">true</mandatory>
 </item>
